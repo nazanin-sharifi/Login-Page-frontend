@@ -6,7 +6,15 @@ a {
     text-decoration: none;
     color: #8C999F;
 }
-
+/* DISCLAIMER */
+.DISCLAIMER{
+    font-size: 10px;
+    color: white;
+    background-color: red;
+    border-radius: 8px;
+    padding: 10px 20px;
+    
+}
 /* countainer */
 .countainer {
     width: 840px;
@@ -224,4 +232,5 @@ a {
     display: inline-block;
     font-size: 12px;
     color: #7C7773;
+
 }
